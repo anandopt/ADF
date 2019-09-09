@@ -1,0 +1,6 @@
+{
+	"name": "OnPremRT",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
